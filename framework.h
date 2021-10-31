@@ -1,0 +1,12 @@
+#pragma once
+#include <iostream>
+#include <fstream>
+#include <string>
+#include <algorithm>
+#include <functional>
+#include <vector>
+#include <numeric>
+#include <windows.h>
+#include <iterator>
+#include "decryption.h"
+#include "encryption.h"
